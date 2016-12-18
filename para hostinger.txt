@@ -1,0 +1,2 @@
+//PARA HOSTINGER
+$link = mysqli_connect("mysql.hostinger.es","u216560962_ds","davidsilvia","u216560962_album");

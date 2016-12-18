@@ -1,0 +1,29 @@
+body{
+	background-image: url("Fondo.jpg");
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-align:center;
+}
+.cabecera{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size:20px;	
+	float:right;
+	border-style: groove;
+	border-width: 2px;
+	padding-right: 50px;
+	background-color: 	#f2cda6;
+}
+.titulo{
+	font-family: Broadway, Castellar, fantasy;
+	position: absolute;
+	font-size:40px;
+	left: 500px; 
+}
+.boton{
+	background-color: #f2cda6;
+	font-size: 20px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+}
+.tabla{
+ 	border=none;
+}
