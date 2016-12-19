@@ -8,7 +8,6 @@
 	<span class="titulo">&Aacute;LBUM DE FOTOS</span><br/><br/>
 	<div style="margin-top: 20px;">
 		<span style="font-weight: bold;font-size:20px;position: absolute; left:35%; text-align:left;">Estas son todas las im&aacute;genes <span style="font-style: italic;font-weight: normal;text-align: left;"></span></span>
-		<span><a style="color: black; position:absolute; left:60%;" href="logout.php">Log out</a></span>
 	</div>
 
 </body>
