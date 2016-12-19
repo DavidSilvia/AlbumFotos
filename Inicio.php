@@ -42,6 +42,7 @@
 		}
 
 		return true;
+	}
 		//]]>
 	</script>
 </head>
